@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\MoreLoops\bin\Debug\net5.0\MoreLoops.exe
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\MoreLoops\bin\Debug\net5.0\MoreLoops.deps.json
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\MoreLoops\bin\Debug\net5.0\MoreLoops.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\MoreLoops\bin\Debug\net5.0\MoreLoops.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\MoreLoops\bin\Debug\net5.0\MoreLoops.dll
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\MoreLoops\bin\Debug\net5.0\ref\MoreLoops.dll
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\MoreLoops\bin\Debug\net5.0\MoreLoops.pdb
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\MoreLoops\obj\Debug\net5.0\MoreLoops.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\MoreLoops\obj\Debug\net5.0\MoreLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\MoreLoops\obj\Debug\net5.0\MoreLoops.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\MoreLoops\obj\Debug\net5.0\MoreLoops.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\MoreLoops\obj\Debug\net5.0\MoreLoops.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\MoreLoops\obj\Debug\net5.0\MoreLoops.dll
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\MoreLoops\obj\Debug\net5.0\ref\MoreLoops.dll
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\MoreLoops\obj\Debug\net5.0\MoreLoops.pdb
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\MoreLoops\obj\Debug\net5.0\MoreLoops.genruntimeconfig.cache

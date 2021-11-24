@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\DiceGame\bin\Debug\net5.0\DiceGame.exe
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\DiceGame\bin\Debug\net5.0\DiceGame.deps.json
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\DiceGame\bin\Debug\net5.0\DiceGame.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\DiceGame\bin\Debug\net5.0\DiceGame.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\DiceGame\bin\Debug\net5.0\DiceGame.dll
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\DiceGame\bin\Debug\net5.0\ref\DiceGame.dll
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\DiceGame\bin\Debug\net5.0\DiceGame.pdb
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\DiceGame\obj\Debug\net5.0\DiceGame.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\DiceGame\obj\Debug\net5.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\DiceGame\obj\Debug\net5.0\DiceGame.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\DiceGame\obj\Debug\net5.0\DiceGame.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\DiceGame\obj\Debug\net5.0\DiceGame.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\DiceGame\obj\Debug\net5.0\DiceGame.dll
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\DiceGame\obj\Debug\net5.0\ref\DiceGame.dll
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\DiceGame\obj\Debug\net5.0\DiceGame.pdb
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\DiceGame\obj\Debug\net5.0\DiceGame.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.exe
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.deps.json
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.dll
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\LoginValidation\bin\Debug\net5.0\ref\LoginValidation.dll
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.pdb
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.dll
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\LoginValidation\obj\Debug\net5.0\ref\LoginValidation.dll
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.pdb
+D:\Programmeerimise algkursus (RKE132)\MoreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.genruntimeconfig.cache
